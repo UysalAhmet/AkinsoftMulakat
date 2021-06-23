@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akınsoft", "Akınsoft\Akınsoft.csproj", "{598F9D45-9956-4D93-B237-F0989C69DCFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akınsoft2", "Akınsoft2\Akınsoft2.csproj", "{97C94AE3-42C7-4418-B801-E19625879359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598F9D45-9956-4D93-B237-F0989C69DCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598F9D45-9956-4D93-B237-F0989C69DCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598F9D45-9956-4D93-B237-F0989C69DCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598F9D45-9956-4D93-B237-F0989C69DCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C94AE3-42C7-4418-B801-E19625879359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C94AE3-42C7-4418-B801-E19625879359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C94AE3-42C7-4418-B801-E19625879359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C94AE3-42C7-4418-B801-E19625879359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA6A0FDE-83B4-464C-8A9E-36BA83F77329}
+	EndGlobalSection
+EndGlobal
